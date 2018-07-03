@@ -2,9 +2,10 @@
 
 Savengers task to save the good people of /r/thanosdidnothingwrong by deleting every post and comment made by them in the subreddit
 
+![Godkiller Armor Logo](https://i.annihil.us/u/prod/marvel/i/mg/e/c0/53cc15f2a5baf/landscape_incredible.jpg)
+
 ![Savengers Call](https://i.imgur.com/jNcJNUN.png)
 
-![Godkiller Armor Logo](https://i.annihil.us/u/prod/marvel/i/mg/e/c0/53cc15f2a5baf/landscape_incredible.jpg)
 
 # Requirements
 * Python 3.6 and above
