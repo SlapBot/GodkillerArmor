@@ -72,6 +72,10 @@ Make sure it says Python 3.6+ and especially not python 2.7! In order to exit, y
 * Run `python main.py` to call Avengers to save you.
 * Visit the avengers in the bar for cold beer.
 
+# Contributors:
+* [Arion Miles (Author)](https://github.com/ArionMiles)
+* [Slapbot (Author)](https://github.com/SlapBot)
+
 ## Infinity Gauntlet
 
 Although if you're interested to die only you can reach out to: https://github.com/ArionMiles/InfinityGauntlet
