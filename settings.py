@@ -1,9 +1,11 @@
 from configurer import config
 
 # reddit app
-username = config.get_configuration("username")
-password = config.get_configuration("password")
+USERNAME = config.get_configuration("username")
+PASSWORD = config.get_configuration("password")
+CLIENT_ID = config.get_configuration("client_id")
+CLIENT_SECRET = config.get_configuration("client_secret")
 
 # subreddit information
-user_agent = config.get_configuration("user_agent")
-subreddit = config.get_configuration("subreddit_name")
+USER_AGENT = config.get_configuration("user_agent")
+SUBREDDIT = config.get_configuration("subreddit_name")
