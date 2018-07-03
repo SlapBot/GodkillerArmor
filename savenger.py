@@ -39,6 +39,7 @@ class Savenger:
             subreddit_comments = self.get_user_subreddit_comments(subreddit)
             self.delete_comments(subreddit_comments)
             print("Savengers have saved you!")
+            print("Go visit https://www.reddit.com/r/savengers/ to have a chat with the fellow superheroes")
             return True
         except Exception as e:
             print(e)
