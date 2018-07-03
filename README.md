@@ -2,6 +2,10 @@
 
 Savengers task to save the good people of /r/thanosdidnothingwrong by deleting every post and comment made by them in the subreddit
 
+![Savengers Call](https://i.imgur.com/jNcJNUN.png)
+
+![Godkiller Armor Logo](https://i.annihil.us/u/prod/marvel/i/mg/e/c0/53cc15f2a5baf/landscape_incredible.jpg)
+
 # Requirements
 * Python 3.6 and above
 * Humblest of wills
@@ -66,3 +70,7 @@ Make sure it says Python 3.6+ and especially not python 2.7! In order to exit, y
 # Usage
 * Run `python main.py` to call Avengers to save you.
 * Visit the avengers in the bar for cold beer.
+
+## Infinity Gauntlet
+
+Although if you're interested to die only you can reach out to: https://github.com/ArionMiles/InfinityGauntlet
